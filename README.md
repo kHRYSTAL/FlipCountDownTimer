@@ -1,5 +1,10 @@
 ### FlipCountDownTimer
 
+#### screenshot
+
+![](https://github.com/kHRYSTAL/FlipCountDownTimer/blob/master/screenshot/screenshot.gif)
+
+
 依赖 [android-FlipView](https://github.com/emilsjolander/android-FlipView)
 参考 [CountdownView](https://github.com/iwgang/CountdownView)
 
